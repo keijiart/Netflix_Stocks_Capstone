@@ -1,2 +1,2 @@
-# Netflix_Stocks_Capstone
+# Netflix Stocks Capstone
  
